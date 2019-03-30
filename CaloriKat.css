@@ -1,0 +1,129 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.aboutPageContent{
+    color:rgb(100, 100, 100);
+    font-weight: 30;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+   
+.aboutTitle{
+    color: black;
+    font-size:100px;
+    font-weight: 20; 
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+
+.virtualTourTitle{
+    color: black;
+    font-size: 43px;
+    font-weight: 5;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.tourStevensTitle{
+    color: black;
+    font-size: 50px;
+    font-weight: 90;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+
+}
+.castlePoint{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.giosPizza{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.hudRiver{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.humpHall{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.stevesAthleticCenter{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.torchBearer{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.davisHall{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.samLibrary{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+.howeCenter{
+    color: rgb(100, 100, 100);
+    font-size: 25px;
+    font-weight: 30;
+    font-family: 'Montserrat', sans-serif;
+    resize: horizontal;
+    overflow: auto;
+}
+
+.dropdown-content{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
